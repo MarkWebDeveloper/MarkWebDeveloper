@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi! 👋 I'm Mark Kil, Web Developer and Programmer
 
-<!--
-**MarkWebDeveloper/MarkWebDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+📚 I'm currently a student at **Factoría F5 Fullstack Bootcamp** in order to become a _Junior Fullstack Developer_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I like solving logic problems in programming. I also enjoy classical music 🎻 and jazz 🎷 while doing so
+
+## Current stack
+
+- Visual Studio Code
+- HTML, CSS, JavaScript
+- Python, C++
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/mark-kil/)
