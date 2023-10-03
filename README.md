@@ -2,7 +2,7 @@
 
 ## About me
 
-📚 I'm currently a student at **Factoría F5 Fullstack Bootcamp** in Gijón Spain in order to become a _Junior Fullstack Developer_
+📚 I'm currently a student at **Factoría F5 Fullstack Bootcamp** in Gijón, Spain to become a _Junior Fullstack Developer_
 
 🤔 I like solving logic problems in programming. I also enjoy classical music 🎻 and jazz 🎷 while doing so
 
