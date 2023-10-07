@@ -19,3 +19,9 @@
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/mark-kil/)
+
+## My stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarkWebDeveloper&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkWebDeveloper&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
