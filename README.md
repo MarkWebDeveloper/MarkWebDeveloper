@@ -6,6 +6,10 @@
 
 🤔 I like solving logic problems in programming. I also enjoy classical music 🎻 and jazz 🎷 while doing so
 
+🖌 Experience in 3D Modeling
+
+📢 Speak 3 languages: Russian (Native), English (C1 level), Spanish (C1 level)
+
 ## Current stack
 
 - Visual Studio Code
