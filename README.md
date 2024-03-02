@@ -43,12 +43,12 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" **alt="Blender" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original-wordmark.svg" title="Maya" **alt="Maya" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" title="Gimp" **alt="Gimp" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" **alt="Confluence" width="40" height="40"/>
