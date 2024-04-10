@@ -2,13 +2,13 @@
 
 ## About me
 
-📚 I'm currently a student at **Factoría F5 Fullstack Bootcamp** in Gijón, Spain to become a _Junior Fullstack Developer_
+I am a Full Stack developer. The main technologies I use are **Vue** for the front end and **Java Spring Boot** for the back end. My passion for new technologies and solving logical problems are the two main factors that led me into the world of programming. When I manage to make a complex feature work or successfully resolve a complicated error, it brings me deep satisfaction. I feel equally comfortable with both front-end and back-end technologies because I enjoy **understanding all processes in depth** and how they relate to each other. My **high learning capacity** drives me to constantly seek out **new methods** and technologies that allow me to **improve** my work with greater efficiency. I love to write **clean** and very **readable code**, that’s easy to mantain.
 
-🤔 I like solving logic problems in programming. I also enjoy classical music 🎻 and jazz 🎷 while doing so
+I thrive in **teamwork** environments to achieve common goals. I always strive to create a **positive atmosphere** within the team, **assist** colleagues with any tasks they have, share knowledge, and **resolve** conflicts when they arise. In doing so, I aim to bring **maximum value** to the company.
 
-🖌 Experience in 3D Modeling
+👨🏻‍🎓I am a graduate of the **Fullstack Bootcamp (1000 hours)** at Factoría F5 in Gijón.
 
-📢 Speak 3 languages: Russian (Native), English (C1 level), Spanish (C1 level)
+🥇Additionally, I am the **winner of the National Somos F5 Hackathon 2024**.
 
 ## Current stack
 
