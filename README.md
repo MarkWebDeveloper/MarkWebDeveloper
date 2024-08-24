@@ -10,6 +10,8 @@ I thrive in **teamwork** environments to achieve common goals. I always strive t
 
 🥇Additionally, I am the **winner of the National Somos F5 Hackathon 2024**.
 
+📜Certified **AWS Cloud Practitioner**.
+
 ## Current stack
 
 ### Programming languages and Preprocessors
@@ -43,6 +45,7 @@ I thrive in **teamwork** environments to achieve common goals. I always strive t
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="Blender" **alt="Blender" width="40" height="40"/>
