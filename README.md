@@ -55,7 +55,7 @@ I thrive in **teamwork** environments to achieve common goals. I always strive t
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="Gimp" **alt="Gimp" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-originalk.svg" title="Confluence" **alt="Confluence" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" **alt="Confluence" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" **alt="Slack" width="40" height="40"/>
 </div>
 
