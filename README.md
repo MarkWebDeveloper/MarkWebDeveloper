@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Mark Kil, Web Developer and Programmer
+# Hi! 👋 I'm Mark Kil, Software Engineer
 
 ## About me
 
@@ -6,9 +6,7 @@ I am a Full Stack developer. The main technologies I use are **Vue** for the fro
 
 I thrive in **teamwork** environments to achieve common goals. I always strive to create a **positive atmosphere** within the team, **assist** colleagues with any tasks they have, share knowledge, and **resolve** conflicts when they arise. In doing so, I aim to bring **maximum value** to the company.
 
-👨🏻‍🎓I am a graduate of the **Fullstack Bootcamp (1000 hours)** at Factoría F5 in Gijón.
-
-🥇Additionally, I am the **winner of the National Somos F5 Hackathon 2024**.
+🥇I am the **winner of the National Somos F5 Hackathon 2024**.
 
 📜Certified **AWS Cloud Practitioner**.
 
@@ -24,6 +22,7 @@ I thrive in **teamwork** environments to achieve common goals. I always strive t
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </div>
 
@@ -38,6 +37,7 @@ I thrive in **teamwork** environments to achieve common goals. I always strive t
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="Vitest" alt="Vitest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
 </div>
 
 ### Other instruments
@@ -45,6 +45,7 @@ I thrive in **teamwork** environments to achieve common goals. I always strive t
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" **alt="GitLab" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" **alt="AWS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>
